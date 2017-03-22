@@ -13,10 +13,10 @@
 
 	```
 
-3. Finally deploy it to an android device connected to  your machine via the command
+4. Deploy it to an android device connected to  your machine via the command
     ```
 	ionic run android --device
 
 	```
 
-navigate to the home tab and click on either the register or validate button to see the plugin in action
+5. Finally navigate to the home tab and click on either the register or validate button to see the plugin in action
